@@ -1,0 +1,49 @@
+
+.image{
+background-image: url('./video-analytics.jpg');
+height: 500px;
+background-position: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+background-attachment: fixed;
+}
+.rowu {
+    width: 80%;
+    margin: auto;
+    text-align:center;
+    padding-bottom: 1000px;
+}
+.columnu {
+    float: left;
+    width: 31%;
+    color: #cf0f0f;
+    margin-top: 7px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+
+.header{
+    background: rgb(83, 3, 83);
+    padding: 10px 0 10px 0;
+    height: 75px;
+}
+.header ul li a{
+    color: whitesmoke;
+}
+.tittle{
+    color: whitesmoke;
+    padding: 10px 10px 0;
+}
+.footer{
+    background: rgb(36, 3, 36);
+    padding: 10px 0 10px 0;
+}
+.stream{
+    padding: 50px 0 150px 0;
+}
+.home{
+    margin-bottom: 350px;
+    margin-right: 350px;
+}
